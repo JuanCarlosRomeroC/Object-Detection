@@ -1,6 +1,6 @@
 # Object Detection
 
-This helps us to detect the objects in a given image. Used the YOLO Pretrained Model to detect the objects in an given Image.
+Used the YOLO Pretrained Model to detect the objects in a given Image.
 
 OpenCV dnn module supports running inference on pre-trained deep learning models from popular frameworks like Caffe, Torch and TensorFlow.
 When it comes to object detection, popular detection frameworks are
